@@ -1,2 +1,1 @@
-# Yet-Another-MNIST-CNN
-YAMNISTCNN
+# Yet Another MNIST CNN
